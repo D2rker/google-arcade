@@ -1,0 +1,41 @@
+      Quiz
+
+
+1.  Which of the following commands will you use to delete the created resources for PostgreSQL metadata?
+
+Answer=  ./cleanup-db.sh
+
+
+
+
+2.  Which of the following commands will you use to delete the PostgreSQL database?
+
+Answer=  ./delete-db.sh
+
+
+
+
+3.  Scenario: You are working on Cloud SQL databases. Your task is to create a database named petsdb. Which command will you use to do so?
+
+Answer=  CREATE DATABASE petsdb;
+
+
+
+
+4.  Which of the following commands will you use to connect to your Cloud SQL named mysql-db database using the CLI?
+Answer=  gcloud sql connect myinstance --user=root
+
+
+
+
+5.  Which command will you run to create a Cloud SQL instance?
+
+Answer=  gcloud sql instances create
+
+
+
+
+6.  Which command will you run to update the settings of a Cloud SQL instance?
+
+Answer=  gcloud sql instances patch
+
